@@ -4,7 +4,7 @@
  * Module dependencies.
  */
 
-var app = require('../app');
+var app = require('../views/app');
 var debug = require('debug')('colludium:server');
 var http = require('http');
 

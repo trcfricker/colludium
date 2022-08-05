@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3c233f85.css",
+    "main.js": "/static/js/main.bc88b3b7.js",
+    "static/media/ibm_vga8.ttf": "/static/media/ibm_vga8.2b3463f4c879a74c71d3.ttf",
+    "static/media/ibm_vga8.eot": "/static/media/ibm_vga8.60f513d4b56c704e752e.eot",
+    "static/media/ibm_vga8.woff2": "/static/media/ibm_vga8.0304e53d71e8d0cc5bec.woff2",
+    "static/media/ibm_vga8.woff": "/static/media/ibm_vga8.ff751c004dfdcb37cf78.woff",
+    "static/media/block-black.cur": "/static/media/block-black.1eda74a9fada18663651.cur",
+    "static/media/block-orange.cur": "/static/media/block-orange.489b56ebe74fcb9647da.cur",
+    "index.html": "/index.html",
+    "main.3c233f85.css.map": "/static/css/main.3c233f85.css.map",
+    "main.bc88b3b7.js.map": "/static/js/main.bc88b3b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c233f85.css",
+    "static/js/main.bc88b3b7.js"
+  ]
+}
